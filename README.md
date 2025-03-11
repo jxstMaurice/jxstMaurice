@@ -3,7 +3,9 @@
   
 
 🌱 I’m currently learning HTML, CSS, JS, PHP
-Current projects: [iZeMod 5.0]([https://github.com/iwmedia](https://github.com/iZeStudios/iZeMod))
+<br/>
+
+Current projects: [iZeMod 5.0](https://github.com/iZeStudios/iZeMod))
   
 
 <br/>  

@@ -20,8 +20,8 @@
 
 ###
 
-<p align="left">I'm Maurice, 18 y.o and from Austria<br><br></p>
-🔭 Current Project: [iZeMod 5.0](https://github.com/iZeStudios/iZeMod)
+<p align="left">I'm Maurice, 18 and from Austria<br><br></p>
+🔭 Current Project: iZeMod 5.0
 
 ###
 

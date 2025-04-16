@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Hey I'm Maurice, 18<br>🔭 I’m currently working on iZeMod 5.0
+🌱 Hey I'm Maurice, 18<br>🔭 I’m currently working on [iZeMod 5.0](https://github.com/iZeStudios/iZeMod)
 
 
 # 💻 Tech Stack:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Hey I'm Maurice, [18 y/o](https://geburtstagsfreunde.de/2007/1/31/)<br>🔭 I’m currently working on [iZeMod 5.0](https://github.com/iZeStudios/iZeMod)
+🌱 Hey I'm Maurice, [18 y/o](https://happyhappybirthday.net/de/2007/01/31)<br>🔭 I’m currently working on [iZeMod 5.0](https://github.com/iZeStudios/iZeMod)
 
 
 # 💻 Tech Stack:

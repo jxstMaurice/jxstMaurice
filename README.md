@@ -3,7 +3,7 @@ Hi 👋 My name is Maurice
 ========================
 
 * 🌍  I'm based in Austria
-* 🚀  I'm currently working on [iZeMod 5.0](http://github.com/iZeStudios/iZeMod)
+* 🚀  I'm currently working on [iZeMod 5.0](http://github.com/iZeStudios/iZeMod) & [more](https://github.com/avgMaurice?tab=repositories) !
 
 <a href="https://www.github.com/avgmaurice" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/avgmaurice?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>

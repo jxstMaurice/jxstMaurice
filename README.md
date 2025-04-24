@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/avgmaurice?logo=github&style=for-th
 
 <a href="https://github.com/avgmaurice" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avgmaurice&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Mood :^)
+### Current Moon State :^)
 [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=basic&rotate=19)](https://moon-svg.minung.dev)<br/>
 
 

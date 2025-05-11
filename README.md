@@ -2,7 +2,7 @@
 Hi 👋 My name is Maurice
 ========================
 
-* 🌍  I'm based in Austria
+* 🌍  I'm based in [Austria](https://en.wikipedia.org/wiki/Austria)
 * 🚀  I'm currently working on [iZeMod 5.0](http://github.com/iZeStudios/iZeMod) & [more](https://github.com/avgMaurice?tab=repositories) !
 
 <a href="https://www.github.com/avgmaurice" target="_blank" rel="noreferrer"><img

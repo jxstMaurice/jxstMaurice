@@ -6,7 +6,7 @@ Hi 👋 My name is Maurice
 * 🚀  I'm currently working on [iZeMod 5.0](http://github.com/iZeStudios/iZeMod) & [more](https://github.com/avgMaurice?tab=repositories) !
 
 <a href="https://www.github.com/avgmaurice" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/avgmaurice?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
+src="https://img.shields.io/github/followers/jxstmaurice?logo=github&style=for-the-badge&color=0891b2&labelColor=171717" /></a>
 
 <a href="http://www.github.com/avgmaurice"><img src="https://github-readme-stats.vercel.app/api?username=avgmaurice&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="avgmaurice's GitHub stats" /></a>
 

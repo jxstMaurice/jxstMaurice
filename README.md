@@ -1,10 +1,11 @@
 
 Hi 👋 My name is Maurice
-========================
+=
 
 * 🌍  I'm based in [Austria](https://en.wikipedia.org/wiki/Austria)
-* 🚀  I'm currently working on [iZeMod 5.0](http://github.com/iZeStudios/iZeMod) & [more](https://github.com/jxstmaurice?tab=repositories) !
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxstmaurice&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxstmaurice&layout=compact&theme=onedark)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxstMaurice&size_weight=0.5&count_weight=0.5&theme=dark)
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=jxstmaurice)](https://github.com/jxstMaurice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iZeStudios&repo=iZeMod&theme=onedark)](https://github.com/iZeStudios/iZeMod)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=558011d25183c6ec10d77a4383c7c5a7&theme=onedark)](https://gist.github.com/jxstMaurice/558011d25183c6ec10d77a4383c7c5a7)

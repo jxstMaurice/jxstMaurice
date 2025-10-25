@@ -1,11 +1,40 @@
+<h2 align="center">Hi 👋! My name is Maurice and I'm from Austria</h2>
 
-Hi 👋 My name is Maurice
-=
+###
 
-* 🌍  I'm based in [Austria](https://en.wikipedia.org/wiki/Austria)
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jxstmaurice&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jxstmaurice&layout=compact&theme=onedark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jxstmaurice&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jxstmaurice&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iZeStudios&repo=iZeMod&theme=onedark)](https://github.com/iZeStudios/iZeMod)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=558011d25183c6ec10d77a4383c7c5a7&theme=onedark)](https://gist.github.com/jxstMaurice/558011d25183c6ec10d77a4383c7c5a7)
+###
+
+<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFqNTRrd2Q4bTBpZmEwYmpneTRwdTBxcnI2ZGxrcDRuMzR2dXYwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S78uB25FzVP6FTyY9J/giphy.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@jxstmaurice" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/jxstmaurice/jxstmaurice/output/snake.svg" alt="Snake animation" />
+
+###
